@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nasser
 - 👀 I’m interested in data analysis with python 
-- 🌱 I’m currently learning python and will move on to JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Linkedin.
+- 🌱 I’m currently learning python and JS
+- 💞️ I’m looking to collaborate on Data analysis realted projects using Python.
+- 📫 How to reach me on Linkedin: www.linkedin.com/in/nasser-alsalti- 
 - ⚡ Fun fact: I did my bachelor's degree on Chemical Engineering and found my passion in python and analysing raw data in general.
 
 <!---
