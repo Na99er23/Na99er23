@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nasser
-- 👀 I’m interested in data analsis with python 
+- 👀 I’m interested in data analysis with python 
 - 🌱 I’m currently learning python and will move on to JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Linkedin.
